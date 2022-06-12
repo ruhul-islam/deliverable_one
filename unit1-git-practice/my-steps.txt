@@ -1,0 +1,92 @@
+### Step 2A
+/Users/ruhul/Desktop/gc
+
+### Step 2B
+cd ..
+
+### Step 2C
+cd gc/unit1-git-practice 
+
+### Step 2D
+/Users/ruhul/Desktop/gc/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+
+### Step 2H
+pwd
+
+### Step 2I
+AB_Home_Care			Downloads			Movies				a
+Applications			IOU				Music
+Desktop				Lab4_Coriolis_Template.xlsx	Pictures
+Documents			Library				Public
+
+
+### Step 2J
+cd Desktop/gc 
+
+### Step 2K
+cd unit1-git-practice 
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
